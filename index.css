@@ -1,0 +1,86 @@
+.row1{
+    padding: 5px 5px;
+    height: 50px;
+    background-clip: content-box;
+    background-color: yellow;
+}
+.row2{
+    height: 50px;
+    background-clip: content-box;
+    background-color:blue;
+    padding: 5px 5px 5px 5px;
+}
+.row3{
+    height: 50px;
+    background-clip: content-box;
+    background-color:red;
+    padding: 5px 5px 5px 5px;
+}
+.row4{
+    height: 50px;
+    background-clip: content-box;
+    background-color:green;
+    padding: 5px 5px ;
+}
+.row5{
+    height: 50px;
+    background-color:grey;
+    background-clip: content-box;
+    padding: 5px 5px ;
+}
+.row6{
+    height: 50px;
+    background-color:yellow;
+    padding: 5px 5px ;
+    background-clip: content-box;
+}
+.row7{
+    height: 50px;
+    background-color:blue;
+    background-clip: content-box;
+    padding: 5px 5px ;
+}
+.row8{
+    height: 50px;
+    background-color:red;
+    background-clip: content-box;
+    padding: 5px 5px ;
+}
+.row9{
+    height: 50px;
+    background-color:yellow;
+    background-clip: content-box;
+}
+.col-6{
+    height: 50px;
+    background-color:blue;
+    background-clip: content-box;
+}
+.col-12 ,.offset-6{
+    height: 50px;
+    background-color:red;
+    background-clip: content-box;
+    padding: 5px 5px ;
+}
+.nav{
+    background-color: black;
+width: 100%;
+}
+.nav-link{
+    color: white;
+}
+.nav-link disabled{
+    color: gray;
+}
+.card-img-top{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+h4{
+    font-size:50px;
+}
+.row .col-12{
+    background-color: lightslategray;
+}
+
